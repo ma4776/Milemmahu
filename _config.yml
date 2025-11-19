@@ -2,7 +2,7 @@ name: 'Salamander'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://ma4776.github.io'
-baseurl: '/SampleWebsite'
+baseurl: '/Milemmahu'
 paginate: 10
 
 markdown: kramdown
