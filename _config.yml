@@ -1,7 +1,7 @@
-name: 'My Coolest Website'
+name: 'Salamander'
 description: 'So much potential'
 tagline: 'yada yada'
-url: 'http://dcernst.github.io'
+url: 'http://ma4776.github.io'
 baseurl: '/SampleWebsite'
 paginate: 10
 
@@ -15,7 +15,7 @@ permalink: pretty
 relative_permalinks: false
 
 # About/contact
-author: Dana C. Ernst
+author: Moro
 
 # GitHub
 github:
