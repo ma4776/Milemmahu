@@ -1,0 +1,28 @@
+name: 'My Coolest Website'
+description: 'So much potential'
+tagline: 'yada yada'
+url: 'http://dcernst.github.io'
+baseurl: '/SampleWebsite'
+paginate: 10
+
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+# permalink: /:year/:month/:title/
+relative_permalinks: false
+
+# About/contact
+author: Dana C. Ernst
+
+# GitHub
+github:
+  repo: github.com/dcernst/SampleWebsite
+
+# Feed Stuff
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
