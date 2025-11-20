@@ -7,3 +7,5 @@ layout: default
 ## Playground
 
 Edit this page to include either the Fundamental Theorem of Calculus, the First Isomorphism Theorem for Groups, or the Central Limit Theorem.  Use correct mathematical typesetting.
+$F(x) = \int_{a}^{b}f(x)dx$
+$f'(a)-f'(b) = \int_{a}^{b}f(x)dx$
